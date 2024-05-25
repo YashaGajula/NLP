@@ -22,4 +22,6 @@ standard for future research efforts in question answering model
 creation, but it also advances the field of Natural Language
 Processing (NLP).    
 ![image](https://github.com/YashaGajula/NLP/assets/170789442/1edfef11-b668-44f0-a0cd-36462e3ef4c9)
+![image](https://github.com/YashaGajula/NLP/assets/170789442/fb3cd474-b023-4eb0-8c58-7cff1c071e26)
+![image](https://github.com/YashaGajula/NLP/assets/170789442/bbd33ffe-f10d-4c24-943a-7e376ff7ffc4)
 
