@@ -20,4 +20,6 @@ swering systems and highlight the potential of ensemble models
 in attaining state-of-the-art results. This work not only sets a
 standard for future research efforts in question answering model
 creation, but it also advances the field of Natural Language
-Processing (NLP).
+Processing (NLP).    
+![image](https://github.com/YashaGajula/NLP/assets/170789442/1edfef11-b668-44f0-a0cd-36462e3ef4c9)
+
